@@ -1,0 +1,8 @@
+D:\variaveis_csharp\variaveis_csharp\obj\Debug\variaveis_csharp.csproj.AssemblyReference.cache
+D:\variaveis_csharp\variaveis_csharp\obj\Debug\variaveis_csharp.csproj.SuggestedBindingRedirects.cache
+D:\variaveis_csharp\variaveis_csharp\obj\Debug\variaveis_csharp.csproj.CoreCompileInputs.cache
+D:\variaveis_csharp\variaveis_csharp\bin\Debug\variaveis_csharp.exe.config
+D:\variaveis_csharp\variaveis_csharp\bin\Debug\variaveis_csharp.exe
+D:\variaveis_csharp\variaveis_csharp\bin\Debug\variaveis_csharp.pdb
+D:\variaveis_csharp\variaveis_csharp\obj\Debug\variaveis_csharp.exe
+D:\variaveis_csharp\variaveis_csharp\obj\Debug\variaveis_csharp.pdb

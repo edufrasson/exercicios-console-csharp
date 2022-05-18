@@ -1,0 +1,8 @@
+D:\eduardo\csharp\imposto_renda\imposto_renda\bin\Debug\imposto_renda.exe.config
+D:\eduardo\csharp\imposto_renda\imposto_renda\bin\Debug\imposto_renda.exe
+D:\eduardo\csharp\imposto_renda\imposto_renda\bin\Debug\imposto_renda.pdb
+D:\eduardo\csharp\imposto_renda\imposto_renda\obj\Debug\imposto_renda.csproj.AssemblyReference.cache
+D:\eduardo\csharp\imposto_renda\imposto_renda\obj\Debug\imposto_renda.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\imposto_renda\imposto_renda\obj\Debug\imposto_renda.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\imposto_renda\imposto_renda\obj\Debug\imposto_renda.exe
+D:\eduardo\csharp\imposto_renda\imposto_renda\obj\Debug\imposto_renda.pdb

@@ -1,0 +1,8 @@
+D:\eduardo\csharp\estrutura_repeticao\estrutura_repeticao\bin\Debug\estrutura_repeticao.exe.config
+D:\eduardo\csharp\estrutura_repeticao\estrutura_repeticao\bin\Debug\estrutura_repeticao.exe
+D:\eduardo\csharp\estrutura_repeticao\estrutura_repeticao\bin\Debug\estrutura_repeticao.pdb
+D:\eduardo\csharp\estrutura_repeticao\estrutura_repeticao\obj\Debug\estrutura_repeticao.csproj.AssemblyReference.cache
+D:\eduardo\csharp\estrutura_repeticao\estrutura_repeticao\obj\Debug\estrutura_repeticao.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\estrutura_repeticao\estrutura_repeticao\obj\Debug\estrutura_repeticao.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\estrutura_repeticao\estrutura_repeticao\obj\Debug\estrutura_repeticao.exe
+D:\eduardo\csharp\estrutura_repeticao\estrutura_repeticao\obj\Debug\estrutura_repeticao.pdb

@@ -1,0 +1,8 @@
+D:\eduardo\csharp\salario_liquido\salario_liquido\bin\Debug\salario_liquido.exe.config
+D:\eduardo\csharp\salario_liquido\salario_liquido\bin\Debug\salario_liquido.exe
+D:\eduardo\csharp\salario_liquido\salario_liquido\bin\Debug\salario_liquido.pdb
+D:\eduardo\csharp\salario_liquido\salario_liquido\obj\Debug\salario_liquido.csproj.AssemblyReference.cache
+D:\eduardo\csharp\salario_liquido\salario_liquido\obj\Debug\salario_liquido.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\salario_liquido\salario_liquido\obj\Debug\salario_liquido.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\salario_liquido\salario_liquido\obj\Debug\salario_liquido.exe
+D:\eduardo\csharp\salario_liquido\salario_liquido\obj\Debug\salario_liquido.pdb

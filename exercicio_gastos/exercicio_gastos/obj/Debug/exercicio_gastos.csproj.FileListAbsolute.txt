@@ -1,0 +1,8 @@
+D:\exercicio_gastos\exercicio_gastos\bin\Debug\exercicio_gastos.exe.config
+D:\exercicio_gastos\exercicio_gastos\bin\Debug\exercicio_gastos.exe
+D:\exercicio_gastos\exercicio_gastos\bin\Debug\exercicio_gastos.pdb
+D:\exercicio_gastos\exercicio_gastos\obj\Debug\exercicio_gastos.csproj.AssemblyReference.cache
+D:\exercicio_gastos\exercicio_gastos\obj\Debug\exercicio_gastos.csproj.SuggestedBindingRedirects.cache
+D:\exercicio_gastos\exercicio_gastos\obj\Debug\exercicio_gastos.csproj.CoreCompileInputs.cache
+D:\exercicio_gastos\exercicio_gastos\obj\Debug\exercicio_gastos.exe
+D:\exercicio_gastos\exercicio_gastos\obj\Debug\exercicio_gastos.pdb

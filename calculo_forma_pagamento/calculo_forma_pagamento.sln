@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculo_forma_pagamento", "calculo_forma_pagamento\calculo_forma_pagamento.csproj", "{52070656-901D-4313-B608-C4879242C916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52070656-901D-4313-B608-C4879242C916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52070656-901D-4313-B608-C4879242C916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52070656-901D-4313-B608-C4879242C916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52070656-901D-4313-B608-C4879242C916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B956ACBE-47C6-44EF-B1A5-E964641BE33E}
+	EndGlobalSection
+EndGlobal

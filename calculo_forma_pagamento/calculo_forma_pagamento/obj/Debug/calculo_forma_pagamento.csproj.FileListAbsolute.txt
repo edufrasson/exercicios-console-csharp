@@ -1,0 +1,8 @@
+D:\eduardo\csharp\calculo_forma_pagamento\calculo_forma_pagamento\bin\Debug\calculo_forma_pagamento.exe.config
+D:\eduardo\csharp\calculo_forma_pagamento\calculo_forma_pagamento\bin\Debug\calculo_forma_pagamento.exe
+D:\eduardo\csharp\calculo_forma_pagamento\calculo_forma_pagamento\bin\Debug\calculo_forma_pagamento.pdb
+D:\eduardo\csharp\calculo_forma_pagamento\calculo_forma_pagamento\obj\Debug\calculo_forma_pagamento.csproj.AssemblyReference.cache
+D:\eduardo\csharp\calculo_forma_pagamento\calculo_forma_pagamento\obj\Debug\calculo_forma_pagamento.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\calculo_forma_pagamento\calculo_forma_pagamento\obj\Debug\calculo_forma_pagamento.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\calculo_forma_pagamento\calculo_forma_pagamento\obj\Debug\calculo_forma_pagamento.exe
+D:\eduardo\csharp\calculo_forma_pagamento\calculo_forma_pagamento\obj\Debug\calculo_forma_pagamento.pdb

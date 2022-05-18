@@ -1,0 +1,8 @@
+D:\eduardo\csharp\estrutura_decisao\estrutura_decisao\bin\Debug\estrutura_decisao.exe.config
+D:\eduardo\csharp\estrutura_decisao\estrutura_decisao\bin\Debug\estrutura_decisao.exe
+D:\eduardo\csharp\estrutura_decisao\estrutura_decisao\bin\Debug\estrutura_decisao.pdb
+D:\eduardo\csharp\estrutura_decisao\estrutura_decisao\obj\Debug\estrutura_decisao.csproj.AssemblyReference.cache
+D:\eduardo\csharp\estrutura_decisao\estrutura_decisao\obj\Debug\estrutura_decisao.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\estrutura_decisao\estrutura_decisao\obj\Debug\estrutura_decisao.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\estrutura_decisao\estrutura_decisao\obj\Debug\estrutura_decisao.exe
+D:\eduardo\csharp\estrutura_decisao\estrutura_decisao\obj\Debug\estrutura_decisao.pdb

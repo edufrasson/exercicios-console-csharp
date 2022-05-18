@@ -1,0 +1,8 @@
+D:\eduardo\csharp\media_idades\media_idades\bin\Debug\media_idades.exe.config
+D:\eduardo\csharp\media_idades\media_idades\bin\Debug\media_idades.exe
+D:\eduardo\csharp\media_idades\media_idades\bin\Debug\media_idades.pdb
+D:\eduardo\csharp\media_idades\media_idades\obj\Debug\media_idades.csproj.AssemblyReference.cache
+D:\eduardo\csharp\media_idades\media_idades\obj\Debug\media_idades.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\media_idades\media_idades\obj\Debug\media_idades.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\media_idades\media_idades\obj\Debug\media_idades.exe
+D:\eduardo\csharp\media_idades\media_idades\obj\Debug\media_idades.pdb

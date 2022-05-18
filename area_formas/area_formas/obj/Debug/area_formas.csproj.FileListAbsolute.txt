@@ -1,0 +1,8 @@
+D:\eduardo\csharp\area_formas\area_formas\bin\Debug\area_formas.exe.config
+D:\eduardo\csharp\area_formas\area_formas\bin\Debug\area_formas.exe
+D:\eduardo\csharp\area_formas\area_formas\bin\Debug\area_formas.pdb
+D:\eduardo\csharp\area_formas\area_formas\obj\Debug\area_formas.csproj.AssemblyReference.cache
+D:\eduardo\csharp\area_formas\area_formas\obj\Debug\area_formas.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\area_formas\area_formas\obj\Debug\area_formas.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\area_formas\area_formas\obj\Debug\area_formas.exe
+D:\eduardo\csharp\area_formas\area_formas\obj\Debug\area_formas.pdb

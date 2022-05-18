@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estrutura_repeticao", "estrutura_repeticao\estrutura_repeticao.csproj", "{F3FD18B8-C438-4EB2-9184-B1485FB83E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FD18B8-C438-4EB2-9184-B1485FB83E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FD18B8-C438-4EB2-9184-B1485FB83E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FD18B8-C438-4EB2-9184-B1485FB83E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FD18B8-C438-4EB2-9184-B1485FB83E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F87A99D-6226-481E-9519-18CD9057F6D2}
+	EndGlobalSection
+EndGlobal

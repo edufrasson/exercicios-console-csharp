@@ -1,0 +1,8 @@
+D:\eduardo\csharp\custo_viagem\custo_viagem\bin\Debug\custo_viagem.exe.config
+D:\eduardo\csharp\custo_viagem\custo_viagem\bin\Debug\custo_viagem.exe
+D:\eduardo\csharp\custo_viagem\custo_viagem\bin\Debug\custo_viagem.pdb
+D:\eduardo\csharp\custo_viagem\custo_viagem\obj\Debug\custo_viagem.csproj.AssemblyReference.cache
+D:\eduardo\csharp\custo_viagem\custo_viagem\obj\Debug\custo_viagem.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\custo_viagem\custo_viagem\obj\Debug\custo_viagem.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\custo_viagem\custo_viagem\obj\Debug\custo_viagem.exe
+D:\eduardo\csharp\custo_viagem\custo_viagem\obj\Debug\custo_viagem.pdb

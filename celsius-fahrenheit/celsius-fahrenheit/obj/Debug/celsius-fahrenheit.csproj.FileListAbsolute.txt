@@ -1,0 +1,8 @@
+D:\eduardo\csharp\celsius-fahrenheit\celsius-fahrenheit\bin\Debug\celsius-fahrenheit.exe.config
+D:\eduardo\csharp\celsius-fahrenheit\celsius-fahrenheit\bin\Debug\celsius-fahrenheit.exe
+D:\eduardo\csharp\celsius-fahrenheit\celsius-fahrenheit\bin\Debug\celsius-fahrenheit.pdb
+D:\eduardo\csharp\celsius-fahrenheit\celsius-fahrenheit\obj\Debug\celsius-fahrenheit.csproj.AssemblyReference.cache
+D:\eduardo\csharp\celsius-fahrenheit\celsius-fahrenheit\obj\Debug\celsius-fahrenheit.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\celsius-fahrenheit\celsius-fahrenheit\obj\Debug\celsius-fahrenheit.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\celsius-fahrenheit\celsius-fahrenheit\obj\Debug\celsius-fahrenheit.exe
+D:\eduardo\csharp\celsius-fahrenheit\celsius-fahrenheit\obj\Debug\celsius-fahrenheit.pdb

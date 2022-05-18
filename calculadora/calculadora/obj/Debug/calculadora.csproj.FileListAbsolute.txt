@@ -1,0 +1,8 @@
+D:\eduardo\csharp\calculadora\calculadora\bin\Debug\calculadora.exe.config
+D:\eduardo\csharp\calculadora\calculadora\bin\Debug\calculadora.exe
+D:\eduardo\csharp\calculadora\calculadora\bin\Debug\calculadora.pdb
+D:\eduardo\csharp\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+D:\eduardo\csharp\calculadora\calculadora\obj\Debug\calculadora.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\calculadora\calculadora\obj\Debug\calculadora.exe
+D:\eduardo\csharp\calculadora\calculadora\obj\Debug\calculadora.pdb

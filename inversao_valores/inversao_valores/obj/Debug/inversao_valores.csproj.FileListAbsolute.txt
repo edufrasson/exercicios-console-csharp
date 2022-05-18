@@ -1,0 +1,8 @@
+D:\eduardo\csharp\inversao_valores\inversao_valores\bin\Debug\inversao_valores.exe.config
+D:\eduardo\csharp\inversao_valores\inversao_valores\bin\Debug\inversao_valores.exe
+D:\eduardo\csharp\inversao_valores\inversao_valores\bin\Debug\inversao_valores.pdb
+D:\eduardo\csharp\inversao_valores\inversao_valores\obj\Debug\inversao_valores.csproj.AssemblyReference.cache
+D:\eduardo\csharp\inversao_valores\inversao_valores\obj\Debug\inversao_valores.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\inversao_valores\inversao_valores\obj\Debug\inversao_valores.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\inversao_valores\inversao_valores\obj\Debug\inversao_valores.exe
+D:\eduardo\csharp\inversao_valores\inversao_valores\obj\Debug\inversao_valores.pdb

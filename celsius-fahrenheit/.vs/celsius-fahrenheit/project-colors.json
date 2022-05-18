@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "963c29e4-a450-49b3-a5e8-945ae7c65b17": {
+      "ProjectGuid": "963c29e4-a450-49b3-a5e8-945ae7c65b17",
+      "DisplayName": "celsius-fahrenheit",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

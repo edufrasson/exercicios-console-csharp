@@ -1,0 +1,8 @@
+D:\eduardo\csharp\cadastro_funcionarios\_211082\_211082\bin\Debug\_211082.exe.config
+D:\eduardo\csharp\cadastro_funcionarios\_211082\_211082\bin\Debug\_211082.exe
+D:\eduardo\csharp\cadastro_funcionarios\_211082\_211082\bin\Debug\_211082.pdb
+D:\eduardo\csharp\cadastro_funcionarios\_211082\_211082\obj\Debug\_211082.csproj.AssemblyReference.cache
+D:\eduardo\csharp\cadastro_funcionarios\_211082\_211082\obj\Debug\_211082.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\cadastro_funcionarios\_211082\_211082\obj\Debug\_211082.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\cadastro_funcionarios\_211082\_211082\obj\Debug\_211082.exe
+D:\eduardo\csharp\cadastro_funcionarios\_211082\_211082\obj\Debug\_211082.pdb

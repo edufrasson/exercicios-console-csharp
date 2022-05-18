@@ -1,0 +1,7 @@
+D:\eduardo\csharp\desconto_com_condicao\desconto_com_condicao\bin\Debug\desconto_com_condicao.exe.config
+D:\eduardo\csharp\desconto_com_condicao\desconto_com_condicao\bin\Debug\desconto_com_condicao.exe
+D:\eduardo\csharp\desconto_com_condicao\desconto_com_condicao\bin\Debug\desconto_com_condicao.pdb
+D:\eduardo\csharp\desconto_com_condicao\desconto_com_condicao\obj\Debug\desconto_com_condicao.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\desconto_com_condicao\desconto_com_condicao\obj\Debug\desconto_com_condicao.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\desconto_com_condicao\desconto_com_condicao\obj\Debug\desconto_com_condicao.exe
+D:\eduardo\csharp\desconto_com_condicao\desconto_com_condicao\obj\Debug\desconto_com_condicao.pdb

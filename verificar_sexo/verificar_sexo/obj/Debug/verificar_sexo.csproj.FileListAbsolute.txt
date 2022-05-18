@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\verificar_sexo\verificar_sexo\bin\Debug\verificar_sexo.exe.config
+C:\Users\Usuario\source\repos\verificar_sexo\verificar_sexo\bin\Debug\verificar_sexo.exe
+C:\Users\Usuario\source\repos\verificar_sexo\verificar_sexo\bin\Debug\verificar_sexo.pdb
+C:\Users\Usuario\source\repos\verificar_sexo\verificar_sexo\obj\Debug\verificar_sexo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\verificar_sexo\verificar_sexo\obj\Debug\verificar_sexo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\verificar_sexo\verificar_sexo\obj\Debug\verificar_sexo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\verificar_sexo\verificar_sexo\obj\Debug\verificar_sexo.exe
+C:\Users\Usuario\source\repos\verificar_sexo\verificar_sexo\obj\Debug\verificar_sexo.pdb

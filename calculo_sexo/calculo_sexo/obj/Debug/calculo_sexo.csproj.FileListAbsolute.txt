@@ -1,0 +1,8 @@
+D:\eduardo\csharp\calculo_sexo\calculo_sexo\bin\Debug\calculo_sexo.exe.config
+D:\eduardo\csharp\calculo_sexo\calculo_sexo\bin\Debug\calculo_sexo.exe
+D:\eduardo\csharp\calculo_sexo\calculo_sexo\bin\Debug\calculo_sexo.pdb
+D:\eduardo\csharp\calculo_sexo\calculo_sexo\obj\Debug\calculo_sexo.csproj.AssemblyReference.cache
+D:\eduardo\csharp\calculo_sexo\calculo_sexo\obj\Debug\calculo_sexo.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\calculo_sexo\calculo_sexo\obj\Debug\calculo_sexo.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\calculo_sexo\calculo_sexo\obj\Debug\calculo_sexo.exe
+D:\eduardo\csharp\calculo_sexo\calculo_sexo\obj\Debug\calculo_sexo.pdb

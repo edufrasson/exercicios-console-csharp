@@ -1,0 +1,8 @@
+D:\primeiro_programa\primeiro_programa\bin\Debug\primeiro_programa.exe.config
+D:\primeiro_programa\primeiro_programa\bin\Debug\primeiro_programa.exe
+D:\primeiro_programa\primeiro_programa\bin\Debug\primeiro_programa.pdb
+D:\primeiro_programa\primeiro_programa\obj\Debug\primeiro_programa.csproj.AssemblyReference.cache
+D:\primeiro_programa\primeiro_programa\obj\Debug\primeiro_programa.csproj.SuggestedBindingRedirects.cache
+D:\primeiro_programa\primeiro_programa\obj\Debug\primeiro_programa.csproj.CoreCompileInputs.cache
+D:\primeiro_programa\primeiro_programa\obj\Debug\primeiro_programa.exe
+D:\primeiro_programa\primeiro_programa\obj\Debug\primeiro_programa.pdb

@@ -1,0 +1,8 @@
+D:\eduardo\csharp\menor_numero\menor_numero\bin\Debug\menor_numero.exe.config
+D:\eduardo\csharp\menor_numero\menor_numero\bin\Debug\menor_numero.exe
+D:\eduardo\csharp\menor_numero\menor_numero\bin\Debug\menor_numero.pdb
+D:\eduardo\csharp\menor_numero\menor_numero\obj\Debug\menor_numero.csproj.AssemblyReference.cache
+D:\eduardo\csharp\menor_numero\menor_numero\obj\Debug\menor_numero.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\menor_numero\menor_numero\obj\Debug\menor_numero.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\menor_numero\menor_numero\obj\Debug\menor_numero.exe
+D:\eduardo\csharp\menor_numero\menor_numero\obj\Debug\menor_numero.pdb

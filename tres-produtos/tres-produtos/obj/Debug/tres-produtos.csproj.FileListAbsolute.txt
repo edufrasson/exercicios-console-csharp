@@ -1,0 +1,8 @@
+D:\eduardo\csharp\tres-produtos\tres-produtos\bin\Debug\tres-produtos.exe.config
+D:\eduardo\csharp\tres-produtos\tres-produtos\bin\Debug\tres-produtos.exe
+D:\eduardo\csharp\tres-produtos\tres-produtos\bin\Debug\tres-produtos.pdb
+D:\eduardo\csharp\tres-produtos\tres-produtos\obj\Debug\tres-produtos.csproj.AssemblyReference.cache
+D:\eduardo\csharp\tres-produtos\tres-produtos\obj\Debug\tres-produtos.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\tres-produtos\tres-produtos\obj\Debug\tres-produtos.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\tres-produtos\tres-produtos\obj\Debug\tres-produtos.exe
+D:\eduardo\csharp\tres-produtos\tres-produtos\obj\Debug\tres-produtos.pdb

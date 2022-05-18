@@ -1,0 +1,8 @@
+D:\eduardo\csharp\qualificacao_aposentadoria\qualificacao_aposentadoria\bin\Debug\qualificacao_aposentadoria.exe.config
+D:\eduardo\csharp\qualificacao_aposentadoria\qualificacao_aposentadoria\bin\Debug\qualificacao_aposentadoria.exe
+D:\eduardo\csharp\qualificacao_aposentadoria\qualificacao_aposentadoria\bin\Debug\qualificacao_aposentadoria.pdb
+D:\eduardo\csharp\qualificacao_aposentadoria\qualificacao_aposentadoria\obj\Debug\qualificacao_aposentadoria.csproj.AssemblyReference.cache
+D:\eduardo\csharp\qualificacao_aposentadoria\qualificacao_aposentadoria\obj\Debug\qualificacao_aposentadoria.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\qualificacao_aposentadoria\qualificacao_aposentadoria\obj\Debug\qualificacao_aposentadoria.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\qualificacao_aposentadoria\qualificacao_aposentadoria\obj\Debug\qualificacao_aposentadoria.exe
+D:\eduardo\csharp\qualificacao_aposentadoria\qualificacao_aposentadoria\obj\Debug\qualificacao_aposentadoria.pdb

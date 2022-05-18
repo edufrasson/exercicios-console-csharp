@@ -1,0 +1,8 @@
+D:\eduardo\csharp\211082_211081\211082_211081\bin\Debug\211082_211081.exe.config
+D:\eduardo\csharp\211082_211081\211082_211081\bin\Debug\211082_211081.exe
+D:\eduardo\csharp\211082_211081\211082_211081\bin\Debug\211082_211081.pdb
+D:\eduardo\csharp\211082_211081\211082_211081\obj\Debug\211082_211081.csproj.AssemblyReference.cache
+D:\eduardo\csharp\211082_211081\211082_211081\obj\Debug\211082_211081.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\211082_211081\211082_211081\obj\Debug\211082_211081.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\211082_211081\211082_211081\obj\Debug\211082_211081.exe
+D:\eduardo\csharp\211082_211081\211082_211081\obj\Debug\211082_211081.pdb

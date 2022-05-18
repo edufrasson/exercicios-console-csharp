@@ -1,0 +1,8 @@
+D:\eduardo\csharp\salario_vendedor\salario_vendedor\bin\Debug\salario_vendedor.exe.config
+D:\eduardo\csharp\salario_vendedor\salario_vendedor\bin\Debug\salario_vendedor.exe
+D:\eduardo\csharp\salario_vendedor\salario_vendedor\bin\Debug\salario_vendedor.pdb
+D:\eduardo\csharp\salario_vendedor\salario_vendedor\obj\Debug\salario_vendedor.csproj.AssemblyReference.cache
+D:\eduardo\csharp\salario_vendedor\salario_vendedor\obj\Debug\salario_vendedor.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\salario_vendedor\salario_vendedor\obj\Debug\salario_vendedor.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\salario_vendedor\salario_vendedor\obj\Debug\salario_vendedor.exe
+D:\eduardo\csharp\salario_vendedor\salario_vendedor\obj\Debug\salario_vendedor.pdb

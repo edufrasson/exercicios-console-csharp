@@ -1,0 +1,8 @@
+D:\eduardo\csharp\idade_em_dias\idade_em_dias\bin\Debug\idade_em_dias.exe.config
+D:\eduardo\csharp\idade_em_dias\idade_em_dias\bin\Debug\idade_em_dias.exe
+D:\eduardo\csharp\idade_em_dias\idade_em_dias\bin\Debug\idade_em_dias.pdb
+D:\eduardo\csharp\idade_em_dias\idade_em_dias\obj\Debug\idade_em_dias.csproj.AssemblyReference.cache
+D:\eduardo\csharp\idade_em_dias\idade_em_dias\obj\Debug\idade_em_dias.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\idade_em_dias\idade_em_dias\obj\Debug\idade_em_dias.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\idade_em_dias\idade_em_dias\obj\Debug\idade_em_dias.exe
+D:\eduardo\csharp\idade_em_dias\idade_em_dias\obj\Debug\idade_em_dias.pdb

@@ -1,0 +1,8 @@
+D:\eduardo\csharp\exercicio_operacoes\exercicio_operacoes\bin\Debug\exercicio_operacoes.exe.config
+D:\eduardo\csharp\exercicio_operacoes\exercicio_operacoes\bin\Debug\exercicio_operacoes.exe
+D:\eduardo\csharp\exercicio_operacoes\exercicio_operacoes\bin\Debug\exercicio_operacoes.pdb
+D:\eduardo\csharp\exercicio_operacoes\exercicio_operacoes\obj\Debug\exercicio_operacoes.csproj.AssemblyReference.cache
+D:\eduardo\csharp\exercicio_operacoes\exercicio_operacoes\obj\Debug\exercicio_operacoes.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\exercicio_operacoes\exercicio_operacoes\obj\Debug\exercicio_operacoes.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\exercicio_operacoes\exercicio_operacoes\obj\Debug\exercicio_operacoes.exe
+D:\eduardo\csharp\exercicio_operacoes\exercicio_operacoes\obj\Debug\exercicio_operacoes.pdb

@@ -1,0 +1,8 @@
+D:\eduardo\csharp\simulacao_investimento\simulacao_investimento\bin\Debug\simulacao_investimento.exe.config
+D:\eduardo\csharp\simulacao_investimento\simulacao_investimento\bin\Debug\simulacao_investimento.exe
+D:\eduardo\csharp\simulacao_investimento\simulacao_investimento\bin\Debug\simulacao_investimento.pdb
+D:\eduardo\csharp\simulacao_investimento\simulacao_investimento\obj\Debug\simulacao_investimento.csproj.AssemblyReference.cache
+D:\eduardo\csharp\simulacao_investimento\simulacao_investimento\obj\Debug\simulacao_investimento.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\simulacao_investimento\simulacao_investimento\obj\Debug\simulacao_investimento.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\simulacao_investimento\simulacao_investimento\obj\Debug\simulacao_investimento.exe
+D:\eduardo\csharp\simulacao_investimento\simulacao_investimento\obj\Debug\simulacao_investimento.pdb

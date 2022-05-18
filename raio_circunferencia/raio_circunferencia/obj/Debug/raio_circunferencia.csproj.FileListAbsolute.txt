@@ -1,0 +1,8 @@
+D:\eduardo\csharp\raio_circunferencia\raio_circunferencia\bin\Debug\raio_circunferencia.exe.config
+D:\eduardo\csharp\raio_circunferencia\raio_circunferencia\bin\Debug\raio_circunferencia.exe
+D:\eduardo\csharp\raio_circunferencia\raio_circunferencia\bin\Debug\raio_circunferencia.pdb
+D:\eduardo\csharp\raio_circunferencia\raio_circunferencia\obj\Debug\raio_circunferencia.csproj.AssemblyReference.cache
+D:\eduardo\csharp\raio_circunferencia\raio_circunferencia\obj\Debug\raio_circunferencia.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\raio_circunferencia\raio_circunferencia\obj\Debug\raio_circunferencia.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\raio_circunferencia\raio_circunferencia\obj\Debug\raio_circunferencia.exe
+D:\eduardo\csharp\raio_circunferencia\raio_circunferencia\obj\Debug\raio_circunferencia.pdb

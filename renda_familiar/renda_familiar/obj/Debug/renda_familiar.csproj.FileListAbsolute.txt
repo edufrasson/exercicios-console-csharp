@@ -1,0 +1,8 @@
+D:\eduardo\csharp\renda_familiar\renda_familiar\bin\Debug\renda_familiar.exe.config
+D:\eduardo\csharp\renda_familiar\renda_familiar\bin\Debug\renda_familiar.exe
+D:\eduardo\csharp\renda_familiar\renda_familiar\bin\Debug\renda_familiar.pdb
+D:\eduardo\csharp\renda_familiar\renda_familiar\obj\Debug\renda_familiar.csproj.AssemblyReference.cache
+D:\eduardo\csharp\renda_familiar\renda_familiar\obj\Debug\renda_familiar.csproj.SuggestedBindingRedirects.cache
+D:\eduardo\csharp\renda_familiar\renda_familiar\obj\Debug\renda_familiar.csproj.CoreCompileInputs.cache
+D:\eduardo\csharp\renda_familiar\renda_familiar\obj\Debug\renda_familiar.exe
+D:\eduardo\csharp\renda_familiar\renda_familiar\obj\Debug\renda_familiar.pdb
